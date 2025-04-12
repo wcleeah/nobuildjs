@@ -1,4 +1,4 @@
-# nobuildjs
+# (TO BE STARTED) nobuildjs
 - Try out deploying a no build javascript application, purely frontend.
 - Try out jsdoc
 
